@@ -197,6 +197,7 @@ We only covered the following commands:
 and this barely scratches the surface of what you can do with GDB, here are some links if you want to learn more:
 
     http://sourceware.org/gdb/current/onlinedocs/gdb/
+
     http://golang.org/doc/gdb
 
 
